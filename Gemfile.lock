@@ -7,6 +7,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     rake (13.0.6)
+    webrick (1.8.1)
+    xmlrpc (0.3.2)
+      webrick
 
 PLATFORMS
   x86_64-linux
@@ -14,6 +17,7 @@ PLATFORMS
 DEPENDENCIES
   glass!
   rake (~> 13.0)
+  xmlrpc (~> 0.3.2)
 
 BUNDLED WITH
    2.4.13
