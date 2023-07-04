@@ -8,3 +8,5 @@ gemspec
 gem "rake", "~> 13.0"
 
 gem "xmlrpc", "~> 0.3.2"
+
+gem "rexml", "~> 3.2"

@@ -7,6 +7,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     rake (13.0.6)
+    rexml (3.2.5)
     webrick (1.8.1)
     xmlrpc (0.3.2)
       webrick
@@ -17,6 +18,7 @@ PLATFORMS
 DEPENDENCIES
   glass!
   rake (~> 13.0)
+  rexml (~> 3.2)
   xmlrpc (~> 0.3.2)
 
 BUNDLED WITH
